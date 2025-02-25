@@ -5,6 +5,12 @@ void func(int x) {
 }
 
 int main() {
+	// Inline comments
+	
+	/*
+	 * Block comments
+	 */
+	
 	// variable assignment
 	int x = 5;
 	int y;
