@@ -1,5 +1,3 @@
-
-
 #include <stdio.h>
 
 int OUTSIDE_WORD = 0;
@@ -29,4 +27,3 @@ int main() {
 
     printf("%d\t%d\t%d\n", nl, nw, nc);
 }
-
