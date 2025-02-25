@@ -1,17 +1,17 @@
 #include <stdio.h>
 
-int func(int x) {
+void func(int x) {
 	printf("Func was passed %d\n", x);
 }
 
 int main() {
 	// variable assignment
 	int x = 5;
-	int y
-	y = 5
+	int y;
+	y = 5;
 
 	// Calling functions
-	func(x)
+	func(x);
 
 	// if statements
 	if (x < 10) {
