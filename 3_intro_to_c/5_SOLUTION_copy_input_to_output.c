@@ -2,10 +2,8 @@
 
 int main() {
     char c;
-    int n = 0;
 
     while ((c = getchar()) != EOF) {
-        n++;
+        putchar(c);
     }
-    printf("%d\n", n);
 }
