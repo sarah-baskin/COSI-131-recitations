@@ -33,6 +33,10 @@ int main() {
 		;
 	}
 
+	// ternary operator
+	int age = 19;
+	age >= 21 ? "Welcome in!": "Go home";
+
 	// conditionals
 	1 && 0 == 0;
 	1 || 0 == 1;
