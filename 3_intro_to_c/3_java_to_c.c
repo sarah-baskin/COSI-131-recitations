@@ -10,6 +10,10 @@ int main() {
 	int y;
 	y = 5;
 
+	// math
+	y = y+10/2;
+	x++;
+
 	// Calling functions
 	func(x);
 
