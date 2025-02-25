@@ -13,6 +13,7 @@ int main() {
 	// math
 	y = y+10/2;
 	x++;
+	y += x;
 
 	// Calling functions
 	func(x);
@@ -26,11 +27,25 @@ int main() {
 		;
 	}
 
+	// conditionals
+	1 && 0 == 0;
+	1 || 0 == 1;
+	!1 	   == 0;
+
 	// for loops
 	for (int i = 0; i < 10; i++) {
+		;
 	}
 
 	// while loops
 	while (1) {
+		;
 	}
+
+	// === Differences ===
+	// Arrays and Strings <-- Covered today
+	// No objects
+	// Manual memory management
+	// Header files / forward declaration
+	// Other small things
 }
